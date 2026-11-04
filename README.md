@@ -5,7 +5,7 @@
 
   I don't just write code. I bridge the gap between high-performance web development, cinematic video editing, graphic design, and conversion-driven marketing. 
 
-  [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahnadim.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsnadim/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirabdullahnadim@gmail.com)
 
